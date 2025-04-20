@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Phadtare</h1>
 <h3 align="center">I'm a MERN stack developer skilled in building dynamic web applications with MongoDB, Express.js, React, and Node.js. I leverage Al tools to optimize my workflow and solve real world problems efficiently. Passionate about creating impactful solutions, I enjoy tackling challenges that contribute to meaningful, user-centric applications.</h3>
 
-- 🔭 I’m currently working on **Bharat Socials**
-
-- 🌱 I’m currently learning **Flutter**
-
 - 📫 How to reach me **saurabhphadtare901@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
