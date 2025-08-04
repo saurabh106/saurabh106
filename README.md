@@ -1,79 +1,101 @@
-<h1 align="center">Hi 👋, I'm Saurabh Phadtare</h1>
-<h3 align="center">MERN Stack Developer | AI Enthusiast | Problem Solver</h3>
+<h1 align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Saurabh+Phadtare;MERN+Stack+Developer;AI+Powered+Solutions;Clean+Code+Advocate;Problem+Solver" alt="Typing SVG" />
+  </a>
+</h1>
+
+<h3 align="center">Building digital experiences with JavaScript magic ✨</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+scalable+web+applications;Leveraging+AI+for+better+solutions;Passionate+about+clean+code;Creating+impactful+user+experiences" alt="Typing SVG" /></a>
+  <img src="https://komarev.com/ghpvc/?username=saurabh106&label=Profile+Views&color=blueviolet&style=flat" alt="saurabh106" /> 
+  <img src="https://img.shields.io/github/followers/saurabh106?label=Follow&style=social" alt="GitHub followers" />
 </p>
 
-- 🔭 I'm currently working on **MERN stack projects with AI integrations**
-- 🌱 I'm currently learning **Advanced React patterns and AI tools**
-- 👯 I'm looking to collaborate on **innovative web projects**
-- 💬 Ask me about **JavaScript, React, Node.js, or how AI can boost development**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
+---
 
-## 📬 Connect with Me
+### 🔥 **About Me**
 
+- 🚀 **MERN Stack Specialist** with AI integration expertise
+- 💡 **Problem Solver** who enjoys tackling complex challenges
+- 🌱 Currently mastering **Microservices Architecture & Web Performance**
+- ⚡ **Fun Fact:** I can type 80+ WPM and solve Rubik's cubes blindfolded
+- 📫 Reach me: **saurabhphadtare901@gmail.com**
+
+---
+
+### 🛠 **Tech Stack**
+
+#### **Frontend**
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
+</div>
+
+#### **Backend**
+<div align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" alt="NestJS" />
+</div>
+
+#### **Databases**
+<div align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" alt="Redis" />
+</div>
+
+#### **Tools & Others**
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase" />
+</div>
+
+---
+
+### 📊 **GitHub Stats**
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saurabh106&show_icons=true&theme=radical&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh106&theme=radical&fire=DD2727" />
+</div>
+
+<div align="center">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh106&layout=compact&theme=radical&langs_count=6" />
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurabh106&theme=radical" />
+</div>
+
+---
+
+### 🏆 **Achievements**
+[![trophy](https://github-profile-trophy.vercel.app/?username=saurabh106&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🤝 **Connect With Me**
 <p align="left">
-  <a href="https://linkedin.com/in/saurabh-phadtare-373a21296/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/saurabh-phadtare-373a21296/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="mailto:saurabhphadtare901@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="40" />
+  <a href="mailto:saurabhphadtare901@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
-  <a href="https://leetcode.com/yourusername/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  <a href="https://leetcode.com/yourusername/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
   </a>
 </p>
 
-## 🛠️ Tech Stack
+---
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
+### ✍️ **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-</p>
+---
 
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
-
-### Mobile & Others
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saurabh106&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh106&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh106&layout=compact&theme=radical" />
-  <img width="45%" src="https://github-profile-trophy.vercel.app/?username=saurabh106&theme=radical&row=2&column=3" />
-</p>
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/saurabh106/count.svg" />
-</p>
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem" alt="Spotify Playing" width="50%"/>
+</div>
