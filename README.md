@@ -83,7 +83,7 @@
   <a href="mailto:saurabhphadtare901@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
-  <a href="https://leetcode.com/yourusername/" target="_blank">
+  <a href="https://leetcode.com/u/__saurabh_89/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
   </a>
 </p>
