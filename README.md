@@ -60,12 +60,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saurabh106&show_icons=true&theme=radical&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh106&theme=radical&fire=DD2727" />
-</div>
-
-<div align="center">
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh106&layout=compact&theme=radical&langs_count=6" />
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saurabh106&theme=radical" />
 </div>
 
 ---
@@ -87,5 +82,3 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
   </a>
 </p>
-
----
