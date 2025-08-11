@@ -78,6 +78,9 @@
   <a href="mailto:saurabhphadtare901@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
   </a>
+  <a href="https://x.com/Saurabh79114" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X" />
+  </a>
 <!--   <a href="https://leetcode.com/u/__saurabh_89/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" />
   </a> -->
