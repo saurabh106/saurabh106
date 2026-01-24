@@ -11,14 +11,6 @@
   <img src="https://img.shields.io/github/followers/saurabh106?label=Follow&style=social" alt="GitHub followers" />
 </p>
 
----
-
-### 🔥 **About Me**
-
-- 🚀 **MERN Stack Specialist** with AI integration expertise
-- 💡 **Problem Solver** who enjoys tackling complex challenges
-- 🌱 Currently mastering **Microservices Architecture & Web Performance**
-- ⚡ **Fun Fact:** I can type 80+ WPM and solve Rubik's cubes blindfolded
 - 📫 Reach me: **saurabhphadtare901@gmail.com**
 
 ---
