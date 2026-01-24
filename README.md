@@ -6,10 +6,10 @@
 
 <h3 align="center">Building digital experiences with JavaScript magic ✨</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saurabh106&label=Profile+Views&color=blueviolet&style=flat" alt="saurabh106" /> 
   <img src="https://img.shields.io/github/followers/saurabh106?label=Follow&style=social" alt="GitHub followers" />
-</p>
+</p> -->
 
 - 📫 Reach me: **saurabhphadtare901@gmail.com**
 
@@ -54,11 +54,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saurabh106&show_icons=true&theme=radical&include_all_commits=true" />
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh106&layout=compact&theme=radical&langs_count=6" />
 </div>
-
----
-
-### 🏆 **Achievements**
-[![trophy](https://github-profile-trophy.vercel.app/?username=saurabh106&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
